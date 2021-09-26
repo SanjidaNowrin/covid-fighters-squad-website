@@ -7,15 +7,10 @@ const Main = () => {
     const [doctors, setdoctors] = useState([]);
        // cart  e doctor rakhar jnne state
     const [ cart , setCart ] = useState([]);
-// jekhanei state shekanei event handler declare korbo
-
-
 const handleAddDoctor=(doctor)=>{
-
     const newCart=[ ...cart  , doctor ]
     setCart(newCart)
 }
-
 
   useEffect(() => {
     fetch("/doctorsData.json")
@@ -27,29 +22,23 @@ const handleAddDoctor=(doctor)=>{
     <div className="container">
       <div className="row">
         <div className="col-md-9">
-          {/* doctorsgulu  load korbo */}
-
           <div className="row">
             {
                 doctors.map(doctor=>  
             <Doctor
                 doctor={doctor}
                 handleAddDoctor={handleAddDoctor}
-                key={doctor.key}
+                key={doctor.fees}
                 >
-
-                </Doctor>)
-            }
-           
+            </Doctor>)
+            }    
           
           </div>
         </div>
         <div className="col-md-3">
-          {/* ekhane amra cart calculation korbo */}
              <Cart
                 cart={cart}
              >
-
              </Cart>
         </div>
       </div>

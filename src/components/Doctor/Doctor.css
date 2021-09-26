@@ -1,0 +1,16 @@
+.title-color {
+  color: #04406e;
+}
+.social-icon {
+  margin: 5px;
+  display: inline-block;
+  color: #007569;
+}
+.purchase-btn {
+  background-color: #007569;
+  color: white;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}

@@ -1,103 +1,124 @@
 [
     {
-        "key": "B002RL8IYK",
-        "name":"Dr.Zinia Zara",
+        "name":"Dr.John Doe",
         "specialist":"Cardiology",
         "position":"Senior Prof.",
         "degree":"MMSc",
-        "age":"34",
-        "salary":100,
+        "age":"60",
+        "fees":700,
         "img":"https://i.ibb.co/pfm3vG6/image1.jpg",
-        "country":"USA"
+        "time":"10.00am-12.00pm"
     },
     {
-        "key": "B002RL8IYK",
-        "name":"Zara",
-        "specialist":"Cardiology",
+        "name":"Dr.Mark",
+        "specialist":"Associate Eye",
         "position":"Senior Prof.",
-        "degree":"MMSc",
-        "age":"34",
-        "salary":100,
+        "degree":"FCPS",
+        "age":"55",
+        "fees":460,
         "img":"https://i.ibb.co/xFmJrhZ/image2.jpg",
-        "country":"USA"
+        "time":"5.00pm-9.00pm"
     },
     {
-        "key": "B002RL8IYK",
-        "name":"Dr.Zinia Zara",
-        "specialist":"Cardiology",
-        "position":"Senior Prof.",
-        "degree":"MMSc",
+        "name":"Dr.Willy",
+        "specialist":"Anaesthetics",
+        "position":"Associate Prof.",
+        "degree":"M.D",
         "age":"34",
-        "salary":100,
+        "fees":130,
         "img":"https://i.ibb.co/PzS8q8k/image3.jpg",
-        "country":"USA"
+        "time":"7.00pm-10.00pm"
     },
    
     {
-        "key": "B002RL8IYK",
-        "name":"Dr.Zinia Zara",
-        "specialist":"Cardiology",
+        "name":"Dr.Tarek",
+        "specialist":"Pulmonologist",
         "position":"Senior Prof.",
         "degree":"MMSc",
-        "age":"34",
-        "salary":100,
+        "age":"40",
+        "fees":280,
         "img":"https://i.ibb.co/6yQJxcK/image4.png",
-        "country":"USA"
+        "time":"5.00pm-9.00pm"
     },
    
     {
-        "key": "B002RL8IYK",
-        "name":"Dr.Zinia Zara",
-        "specialist":"Cardiology",
-        "position":"Senior Prof.",
-        "degree":"MMSc",
-        "age":"34",
-        "salary":100,
+        "name":"Dr.Shahanara",
+        "specialist":"Oncologist",
+        "position":"Associate Prof.",
+        "degree":"MBBS",
+        "age":"29",
+        "fees":430,
         "img":"https://i.ibb.co/N3Z5Fyj/image5.png",
-        "country":"USA"
+        "time":"10.00am-12.00pm"
     },
     {
-        "key": "B002RL8IYK",
-        "name":"Dr.Zinia Zara",
-        "specialist":"Cardiology",
-        "position":"Senior Prof.",
+        "name":"Dr.Sabrina",
+        "specialist":"Nephrologist",
+        "position":"Associate Prof.",
         "degree":"MMSc",
-        "age":"34",
-        "salary":100,
+        "age":"30",
+        "fees":550,
         "img":"https://i.ibb.co/sbK6nQv/image6.png",
-        "country":"USA"
+        "time":"8.00pm-11.00pm"
     },
     {
-        "key": "B002RL8IYK",
-        "name":"Dr.Zinia Zara",
-        "specialist":"Cardiology",
-        "position":"Senior Prof.",
-        "degree":"MMSc",
-        "age":"34",
-        "salary":100,
+        "name":"Dr.Elias",
+        "specialist":"Obstetrics",
+        "position":"Associate Prof.",
+        "degree":"MBBS",
+        "age":"28",
+        "fees":300,
         "img":"https://i.ibb.co/jfhCbPw/image7.jpg",
-        "country":"USA"
+        "time":"10.00am-12.00pm"
     },
     {
-        "key": "B002RL8IYK",
-        "name":"Dr.Zinia Zara",
-        "specialist":"Cardiology",
+        "name":"Dr.Kaniz Sultana",
+        "specialist":"Gynaecology",
         "position":"Senior Prof.",
-        "degree":"MMSc",
-        "age":"34",
-        "salary":100,
+        "degree":"M.D",
+        "age":"27",
+        "fees":150,
         "img":"https://i.ibb.co/dQhCLVn/image8.jpg",
-        "country":"USA"
+        "time":"5.00pm -9.00pm"
     },
     {
-        "key": "B002RL8IYK",
-        "name":"Dr.Zinia Zara",
-        "specialist":"Cardiology",
+        "name":"Dr.Jamal Khan",
+        "specialist":"Paediatrics",
         "position":"Senior Prof.",
         "degree":"MMSc",
-        "age":"34",
-        "salary":100,
+        "age":"62",
+        "fees":200,
         "img":"https://i.ibb.co/s5DwPWs/image9.jpg",
-        "country":"USA"
+        "time":"10.00am-12.00pm"
+    },
+    {
+        "name":"Dr.Shirin Akter",
+        "specialist":"Dermatologist",
+        "position":"Senior Prof.",
+        "degree":"MMSc",
+        "age":"40",
+        "fees":330,
+        "img":"https://i.ibb.co/5BrYT8K/image10.jpg",
+        "time":"5.00pm -9.00pm"
+    },
+    {
+        "name":"Dr.Jakir Khan",
+        "specialist":"Ophthalmolo",
+        "position":"Associate Prof.",
+        "degree":"M.D",
+        "age":"38",
+        "fees":420,
+        "img":"https://i.ibb.co/g6cXLtJ/image11.jpg",
+        "time":"10.00am-12.00pm"
+    },
+    {
+        "name":"Dr.Rafiqul",
+        "specialist":"Endocrinologist",
+        "position":"Senior Prof.",
+        "degree":"FCPS",
+        "age":"48",
+        "fees":323,
+        "img":"https://i.ibb.co/hctd561/young-doctor.jpg",
+        "time":"10.00am-12.00pm"
     }
 ]

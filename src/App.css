@@ -1,0 +1,9 @@
+.bg-color {
+  background: linear-gradient(
+      0deg,
+      rgba(123, 164, 211, 0.555),
+      rgba(75, 155, 192, 0.3)
+    ),
+    url("../src/images/bghospital.jpg");
+  background-size: cover;
+}
