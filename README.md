@@ -1,6 +1,6 @@
 # COVID FIGHTERS SQUAD
 
-## Live Website Link [Click here]().
+## Live Website Link [Click here](https://covid-fighters-squad.netlify.app/).
 
 ## Overview
 
